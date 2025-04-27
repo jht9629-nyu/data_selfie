@@ -24,7 +24,10 @@ function prepare_database() {
 }
 
 const app = express();
-// app.listen(3000, () => console.log('listening at 3000'));
+const port = process.env.PORT || 3000;
+app.listen(port, () => {
+  console.log(`Starting server at ${port}`);
+});
 
 app.use(express.static('public'));
 app.use(express.json({ limit: '1mb' }));
@@ -65,4 +68,4 @@ app.post('/api', (request, response) => {
 // }
 
 // For Vercel deployment
-module.exports = app;
+// module.exports = app;

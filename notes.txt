@@ -1,8 +1,13 @@
 notes.txt
+# --
 
+
+glitch fails to re-import from repo, stalls on loading project
+
+
+# --
 
 git push to glitch repo fails
-
 
 Enumerating objects: 5, done.
 Counting objects: 100% (5/5), done.

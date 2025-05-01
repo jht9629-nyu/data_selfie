@@ -2,8 +2,12 @@ notes.txt
 # --
 
 
-glitch fails to re-import from repo, stalls on loading project
+created new glitch project and re-import works!
 
+
+# --
+
+glitch fails to re-import from repo, stalls on loading project
 
 # --
 

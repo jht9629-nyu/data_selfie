@@ -12,6 +12,7 @@
   "author": "John Henry Thompson",
   "license": "MIT",
   "dependencies": {
+    "@seald-io/nedb": "^4.1.1",
     "express": "^5.1.0",
     "lokijs": "^1.5.12"
   },

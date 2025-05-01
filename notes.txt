@@ -4,6 +4,22 @@ notes.txt
 
 # --
 
+npm install @seald-io/nedb
+
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'module2@1.0.0',
+npm warn EBADENGINE   required: { node: '16.x' },
+npm warn EBADENGINE   current: { node: 'v23.8.0', npm: '11.1.0' }
+npm warn EBADENGINE }
+
+added 22 packages, and audited 117 packages in 1s
+
+31 packages are looking for funding
+  run `npm fund` for details
+
+
+# --
+
 - works in glitch
 
 package.json

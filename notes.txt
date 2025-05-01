@@ -1,11 +1,39 @@
 notes.txt
 
 
+git push to glitch repo fails
+
+
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 651 bytes | 651.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: error: refusing to update checked out branch: refs/heads/master        
+remote: error: By default, updating the current branch in a non-bare repository        
+remote: error: is denied, because it will make the index and work tree inconsistent        
+remote: error: with what you pushed, and will require 'git reset --hard' to match        
+remote: error: the work tree to HEAD.        
+remote: error:         
+remote: error: You can set 'receive.denyCurrentBranch' configuration variable to        
+remote: error: 'ignore' or 'warn' in the remote repository to allow pushing into        
+remote: error: its current branch; however, this is not recommended unless you        
+remote: error: arranged to update its work tree to match what you pushed in some        
+remote: error: other way.        
+remote: error:         
+remote: error: To squelch this message and still keep the default behaviour, set        
+remote: error: 'receive.denyCurrentBranch' configuration variable to 'refuse'.        
+To https://api.glitch.com/git/royal-successful-fibre
+ ! [remote rejected] master -> master (branch is currently checked out)
+error: failed to push some refs to 'https://api.glitch.com/git/royal-successful-fibre'
+
+
 # --
 
 Grant us access to your GitHub repos in order to export projects from Glitch to GitHub.
 
-
+https://glitch.com/edit/#!/royal-successful-fibre?path=index.js%3A46%3A0
 
 # --
 

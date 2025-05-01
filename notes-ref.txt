@@ -1,0 +1,11 @@
+notes-ref.txt
+
+https://github.com/jht9629-nyu/data_selfie
+
+https://glitch.com/edit/#!/cedar-rare-ocarina
+
+
+https://826fffbe-9d35-4445-8c42-a7e755698c31@api.glitch.com/git/cedar-rare-ocarina
+
+Every Glitch project is also a Git repository you can access.
+

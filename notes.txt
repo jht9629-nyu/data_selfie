@@ -1,5 +1,22 @@
 notes.txt
 
+# --
+
+# --
+
+- works in glitch
+
+package.json
+  "engines": {
+    "node": "16.x"
+  }
+
+- use loki for db
+
+- attempt to work in vercel fails
+
+# --
+
 npm install nodemon --save-dev
 
 npm run dev

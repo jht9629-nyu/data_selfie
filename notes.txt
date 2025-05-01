@@ -1,8 +1,16 @@
 notes.txt
 # --
+https://github.com/jht9629-nyu/data_selfie
+
+# --
+2025-05-01 17:23:52
+
+https://glitch.com/edit/#!/polarized-circular-newsboy?path=README.md%3A1%3A0
+fresh import works
 
 # --
 2025-05-01 16:35:50
+
 
 https://glitch.com/edit/#!/indecisive-eager-lemonade?path=README.md%3A1%3A0
 fresh import works

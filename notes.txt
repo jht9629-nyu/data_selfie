@@ -2,8 +2,15 @@ notes.txt
 # --
 2025-05-01 16:27:36
 
-created new glitch project and re-import works!
 
+https://github.com/jht9629-nyu/data_selfie
+
+
+
+import into existing glitch project fails
+https://glitch.com/edit/#!/synonymous-equinox-november?path=notes.txt%3A1%3A0
+
+created new glitch project and re-import works!
 
 # --
 

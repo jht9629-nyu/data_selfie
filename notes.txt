@@ -1,6 +1,30 @@
 notes.txt
 
+
 # --
+
+Grant us access to your GitHub repos in order to export projects from Glitch to GitHub.
+
+
+
+# --
+
+-- reimport does not work switch to new project
+
+https://royal-successful-fibre.glitch.me/
+
+
+Every Glitch project is also a Git repository you can access.
+https://826fffbe-9d35-4445-8c42-a7e755698c31@api.glitch.com/git/royal-successful-fibre
+
+
+-- reimport into glitch
+
+https://github.com/jht9629-nyu/data_selfie
+
+
+import into glitch hangs
+https://glitch.com/edit/#!/cedar-rare-ocarina
 
 # --
 

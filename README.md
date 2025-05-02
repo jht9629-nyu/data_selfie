@@ -7,4 +7,4 @@
 
 ## Changes
 
-- seet notes.txt
+- see notes.txt
